@@ -38,8 +38,6 @@ const batch = [
   mystery5,
 ];
 
-// Add your functions below:
-
 function validateCred(array) {
   //iterate backwards through array, starting at the second to last number
   for (let i = array.length - 2; i >= 0; i--) {
